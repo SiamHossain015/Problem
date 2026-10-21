@@ -21,3 +21,4 @@ else{
 console.log(checkEvenOrOdd(25));
 console.log(checkEvenOrOdd(26));
 console.log(checkEvenOrOdd(3));
+console.log(checkEvenOrOdd(4));
